@@ -1,4 +1,4 @@
-file = open("ex.csv", "w")
+file = open("ex.exe", "w")
 
 for i in range(1, 1001, 1):
     #file.write(f" {i + 1}" + "\n")
